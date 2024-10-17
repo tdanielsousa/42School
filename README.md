@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My 42Porto Projects Repository 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/ngtQWQ3/logo42-dark.jpg" alt="42porto" width="60%">
+  <img src="https://i.ibb.co/ngtQWQ3/logo42-dark.jpg" alt="42porto"  width="300" height="125">
 </p>
 
 ## 🚀 About Me
