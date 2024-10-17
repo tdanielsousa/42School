@@ -1,6 +1,6 @@
 # Welcome to My 42Porto Projects Repository 👨‍💻
 
-![42Porto and Coding](https://i.ibb.co/59r94BB/c1.png)
+![42Porto and Coding](https://www.42porto.com/wp-content/themes/42lisboa/images/logo42_dark.svg)
 
 ## 🚀 About Me
 Hey there! I'm a student at [42Porto](https://www.42porto.com/), honing my skills in coding, problem-solving, and innovation.
