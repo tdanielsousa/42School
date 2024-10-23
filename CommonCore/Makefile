@@ -3,7 +3,7 @@ CC = cc
 CFLAGS = -Wall -Wextra -Werror -g
 SRCS = $(wildcard *.c)
 OBJS = $(SRCS:.c=.o)
-NAME = program_name
+NAME = a
 
 # Default rule
 all: $(NAME) leaks clean
