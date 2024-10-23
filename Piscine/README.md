@@ -37,7 +37,7 @@ And guess what, the next day you'll ask someone how they entered the exam, and t
 | [Piscine C 08](https://github.com/tdanielsousa/42School/tree/main/Piscine/C08) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `moulinette` |
 | [Piscine C 09](https://github.com/tdanielsousa/42School/tree/main/Piscine/C09) | <img src="https://img.shields.io/badge/60%20%2F%20100-red"/> | `2 peers` `moulinette` |
 
-| Rush Project | Grade | Evaluation Information |
+| Rush Project | Grade | Evaluation Information | Bonus |
 | :--- | :--- | :--- | :--- |
 | [Piscine Rush 00](#) | <img src="https://img.shields.io/badge/score-120%20%2F%20100-green"/> | `1 lifeguard` `Rigorous tests with edge cases` | `+20 for doing the bonus` |
 
