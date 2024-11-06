@@ -15,10 +15,7 @@
 # include <stdlib.h>
 # include <unistd.h>
 # include <stdio.h>
-# include <limits.h>
-# include <stdint.h>
 # include <stddef.h>
-# include <string.h>
 
 void	ft_putchar_fd(char c, int fd);
 void	ft_putstr_fd(char *s, int fd);
