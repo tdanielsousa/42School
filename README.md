@@ -8,7 +8,7 @@
 Hey there! I'm a student at [42Porto](https://www.42porto.com/), honing my skills in coding, problem-solving, and innovation.
 This repository showcases my journey through various projects, challenges, and breakthroughs in the world of programming.
 
-<a href=""><img src="https://badge.mediaplus.ma/greenbinary/tdaniel-?1337Badge=off&UM6P=off" alt="tdaniel-'s 42 stats" /></a>
+<a href=""><img src="https://badge.mediaplus.ma/greenbinary/tdaniel-?1337Badge=off&amp;UM6P=off" alt="tdaniel-'s 42 stats" /></a>
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C, C++, Shell
