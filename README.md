@@ -4,11 +4,9 @@
   <img src="https://i.ibb.co/ngtQWQ3/logo42-dark.jpg" alt="42porto"  width="300" height="125">
 </p>
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 Hey there! I'm a student at [42Porto](https://www.42porto.com/), honing my skills in coding, problem-solving, and innovation.
 This repository showcases my journey through various projects, challenges, and breakthroughs in the world of programming.
-
-<a href=""><img src="https://badge.mediaplus.ma/greenbinary/tdaniel-?1337Badge=off&amp;UM6P=off" alt="tdaniel-'s 42 stats" /></a>
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C, C++, Shell
@@ -20,7 +18,7 @@ This repository showcases my journey through various projects, challenges, and b
 Here, it's all about collaboration, creativity, and mastering the art of coding. 
 Join me as I tackle real-world coding challenges and level up my skills.
 
-## 🔥 Featured Projects
+## 🏗️ Featured Projects
 1. **Rush Project:** A team challenge to create elegant solutions for complex problems, with a focus on efficient coding due to norminette rules.
 2. **Piscine** 26 days of pure "live to code". Sounds good? Join in to at [42Porto](https://www.42porto.com/)!
 3. **PiscineReloaded** A week of a Piscine-Like experience, done after the piscine and before starting the CommonCore to refresh everything you did in the piscine.
@@ -28,10 +26,12 @@ Join me as I tackle real-world coding challenges and level up my skills.
 
 Check out the code, explore the logic, and feel free to contribute or reach out with any suggestions!
 
-## 📫 Get In Touch
+## 📱 Get In Touch
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Email](mailto:empty)
 - [42 Network Profile](https://profile.intra.42.fr/users/yourusername)
+- 
+Let's connect and build something awesome together! 😎🚀
 
 ----------------------
 
@@ -40,6 +40,3 @@ This repository is open-source and available under the MIT License. Feel free to
 
 ----------------------
 
-Let's connect and build something awesome together! 😎🚀
-
-----------------------
