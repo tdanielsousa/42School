@@ -1,9 +1,13 @@
+
 ## 🦺  SYNOPSIS WITH MY CUSTOM-MADE BADGES 🦺
+
 <div align="center">
 	The **42 Piscine** is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer evaluation, and project-based learning. <br>
 </div>
 <br>
+
 ## 🦺  ABOUT  🦺
+
 The **42 Piscine** is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer evaluation, and project-based learning. <br>
 Participants dive headfirst into the work methods of 42 students for 26 days, engaging in intensive learning and dedicating a month to mastering programming skills. <br>
 
