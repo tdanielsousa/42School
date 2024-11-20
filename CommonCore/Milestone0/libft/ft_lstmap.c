@@ -64,12 +64,4 @@ of each node.
 Creates a new list resulting of the successive applications of the
 function ’f’. 
 The ’del’ function is used to delete the content of a node if needed.
-
-the error it gives on francinette its in the test main
-/home/tiago/francinette/temp/libft/war-machine
-
-/home/tiago/francinette/temp/libft/war-machine/tests/Bonus_functions/ft_lstmap/main.c:93:7: error: variable 'i' set but not used [-Werror,-Wunused-but-set-variable]
-   93 |                 int i;
-      |                     ^
-1 error generated.
 */
