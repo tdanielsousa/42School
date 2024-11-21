@@ -2,11 +2,11 @@
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh00.webp" alt="sh00 Badge" width="50%" height="50%"></td>
-        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh01.webp" alt="sh01 Badge" width="50%" height="50%"></td>
-        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge" width="50%" height="50%"></td>
-        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c01.webp" alt="c01 Badge" width="50%" height="50%"></td>
-        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c02.webp" alt="c02 Badge" width="50%" height="50%"></td>
+        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh00.webp" alt="sh00 Badge" width="100%" height="100%"></td>
+        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh01.webp" alt="sh01 Badge" width="100%" height="100%"></td>
+        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge" width="100%" height="100%"></td>
+        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c01.webp" alt="c01 Badge" width="100%" height="100%"></td>
+        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c02.webp" alt="c02 Badge" width="100%" height="100%"></td>
     </tr>
 	<tr>
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c03.webp" alt="c03 Badge" width="90" height="90"></td>
