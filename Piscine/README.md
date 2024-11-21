@@ -1,7 +1,7 @@
 ## 🦺  SYNOPSIS WITH MY CUSTOM-MADE BADGES 🦺
 
 <table style="border:0px;">
-    <tr>
+    <tr style="border:0px;">
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh00.webp" alt="sh00 Badge" width="100%" height="100%"></td>
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh01.webp" alt="sh01 Badge" width="100%" height="100%"></td>
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge" width="100%" height="100%"></td>
@@ -9,7 +9,7 @@
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c02.webp" alt="c02 Badge" width="100%" height="100%"></td>
 	<td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c03.webp" alt="c03 Badge" width="100%" height="100%"></td>
     </tr>
-	<tr>
+	<tr style="border:0px;">
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c04.webp" alt="c04 Badge" width="100%" height="100%"></td>
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c05.webp" alt="c05 Badge" width="100%" height="100%"></td>
 	<td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c06.webp" alt="c06 Badge" width="100%" height="100%"></td>
@@ -17,7 +17,7 @@
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c08.webp" alt="c08 Badge" width="100%" height="100%"></td>
 	<td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c09.webp" alt="c09 Badge" width="100%" height="100%"></td>
 	</tr>
-	<tr>
+	<tr style="border:0px;">
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex00.webp" alt="ex00 Badge" width="100%" height="100%"></td>
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex01.webp" alt="ex01 Badge" width="100%" height="100%"></td>
 	<td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex02.webp" alt="ex02 Badge" width="100%" height="100%"></td>
