@@ -1,6 +1,6 @@
 ## 🦺  SYNOPSIS WITH MY CUSTOM-MADE BADGES 🦺
 
-<img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge" width="20" height="20">
+<img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge" width="90" height="90">
 
 <br>
 
