@@ -17,7 +17,13 @@
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c08.webp" alt="c08 Badge" width="100%" height="100%"></td>
 	<td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c09.webp" alt="c09 Badge" width="100%" height="100%"></td>
 	</tr>
-
+	<tr>
+        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex00.webp" alt="ex00 Badge" width="100%" height="100%"></td>
+        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex01.webp" alt="ex01 Badge" width="100%" height="100%"></td>
+	<td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex02.webp" alt="ex02 Badge" width="100%" height="100%"></td>
+	<td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex03.webp" alt="ex03 Badge" width="100%" height="100%"></td>
+        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/rush00.webp" alt="rush00 Badge" width="100%" height="100%"></td>
+	</tr>
 </table>
 
 <br>
