@@ -2,22 +2,22 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="width: 16.66%; margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh00.webp" alt="sh00 Badge" style="width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh00.webp" alt="sh00 Badge">
   </div>
   <div style="width: 16.66%; margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh01.webp" alt="sh01 Badge" style="width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh01.webp" alt="sh01 Badge">
   </div>
   <div style="width: 16.66%; margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge" style="width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge">
   </div>
   <div style="width: 16.66%; margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c01.webp" alt="c01 Badge" style="width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c01.webp" alt="c01 Badge">
   </div>
   <div style="width: 16.66%; margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c02.webp" alt="c02 Badge" style="width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c02.webp" alt="c02 Badge">
   </div>
   <div style="width: 16.66%; margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c03.webp" alt="c03 Badge" style="width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c03.webp" alt="c03 Badge">
   </div>
   
   <div style="width: 16.66%; margin-bottom: 10px;">
