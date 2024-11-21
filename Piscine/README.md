@@ -1,29 +1,61 @@
 ## 🦺  SYNOPSIS WITH MY CUSTOM-MADE BADGES 🦺
 
-<div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px;">
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh00.webp" alt="sh00 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh01.webp" alt="sh01 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c01.webp" alt="c01 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c02.webp" alt="c02 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c03.webp" alt="c03 Badge" style="width: 100%; height: auto;"></div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh00.webp" alt="sh00 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh01.webp" alt="sh01 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c01.webp" alt="c01 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c02.webp" alt="c02 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c03.webp" alt="c03 Badge" style="width: 100%; height: auto;">
+  </div>
   
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c04.webp" alt="c04 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c05.webp" alt="c05 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c06.webp" alt="c06 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c07.webp" alt="c07 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c08.webp" alt="c08 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c09.webp" alt="c09 Badge" style="width: 100%; height: auto;"></div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c04.webp" alt="c04 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c05.webp" alt="c05 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c06.webp" alt="c06 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c07.webp" alt="c07 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c08.webp" alt="c08 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c09.webp" alt="c09 Badge" style="width: 100%; height: auto;">
+  </div>
   
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex00.webp" alt="ex00 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex01.webp" alt="ex01 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex02.webp" alt="ex02 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex03.webp" alt="ex03 Badge" style="width: 100%; height: auto;"></div>
-  <div><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/rush00.webp" alt="rush00 Badge" style="width: 100%; height: auto;"></div>
-  <div style="visibility: hidden;"></div> <!-- Empty space -->
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex00.webp" alt="ex00 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex01.webp" alt="ex01 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex02.webp" alt="ex02 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/ex03.webp" alt="ex03 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px);">
+    <img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/rush00.webp" alt="rush00 Badge" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 calc(16.66% - 10px); max-width: calc(16.66% - 10px); visibility: hidden;"></div> <!-- Empty space -->
 </div>
-
-
 <br>
 
 ## 🦺  ABOUT  🦺
