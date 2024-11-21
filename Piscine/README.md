@@ -2,8 +2,8 @@
 
 <table style="border:0px;">
     <tr style="border:0px;">
-        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh00.webp" alt="sh00 Badge" width="100%" height="100%"></td>
-        <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh01.webp" alt="sh01 Badge" width="100%" height="100%"></td>
+        <td style="border:0px;"><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh00.webp" alt="sh00 Badge" width="100%" height="100%"></td>
+        <td style="border:0px;"><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/sh01.webp" alt="sh01 Badge" width="100%" height="100%"></td>
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c00.webp" alt="C00 Badge" width="100%" height="100%"></td>
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c01.webp" alt="c01 Badge" width="100%" height="100%"></td>
         <td><img src="https://raw.githubusercontent.com/tdanielsousa/tdaniel-/main/piscine_badges/c02.webp" alt="c02 Badge" width="100%" height="100%"></td>
