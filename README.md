@@ -30,7 +30,7 @@ Check out the code, explore the logic, and feel free to contribute or reach out 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Email](mailto:empty)
 - [42 Network Profile](https://profile.intra.42.fr/users/yourusername)
-- 
+<a href="https://deepwiki.com/tdanielsousa/42School"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 Let's connect and build something awesome together! 😎🚀
 
 ----------------------
